@@ -22,6 +22,8 @@ Let's go on an adventure together 🥾! Click on the "Project" badges below each
 <video src="https://github.com/user-attachments/assets/95b7a893-86b2-4b41-b706-e55350b8b1df" width="800" height="400"> </video>
 </div>
 
+*I was pretty tired in the video, as I did it right before exams.  Please excuse the monotone voice.
+
 ## 💻 Personal Hyprland Dotfiles
 ![Static Badge](https://img.shields.io/badge/Project-031926?style=for-the-badge&logo=github&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FRiley-Py%2FDotFiles-Hyprland)
 
