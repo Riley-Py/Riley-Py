@@ -16,7 +16,7 @@ Let's go on an adventure together 🥾! Click on the "Project" badges below each
 # Projects
 
 ## ⚙️ ESP32 Project - The Videogame Dashboard
-<img alt="Static Badge" src="https://img.shields.io/badge/Github-031926?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FRiley-Py%2FTER4M-Creative_Engineering">
+<img alt="Static Badge" src="https://img.shields.io/badge/Project-031926?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FRiley-Py%2FTER4M-Creative_Engineering">
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/95b7a893-86b2-4b41-b706-e55350b8b1df" width="800" height="400"> </video>
